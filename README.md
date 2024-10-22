@@ -1,1 +1,0 @@
-# Quran_Analyser
