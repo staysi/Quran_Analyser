@@ -1,6 +1,6 @@
 # Quran Digitization and Search Tool
 
-This project is a Python-based application that allows users to search, digitize, and view the Quran in Arabic, with English translations and numerical representations of the Arabic text.
+This project is a Python-based application that allows users to search, digitize, and view the Quran in Arabic, with English translations and numerical representations of the Arabic text. In future, the aim is to include deep linguistic as well as numerical Analysis tools to the project to make use of the original Arabic text as well as the digitised data.
 
 ## Features
 
